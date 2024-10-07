@@ -1,4 +1,4 @@
-# NOT FINISHED
+## NOT FINISHED 
 
 # python3 breakingbad.py < 1.in 
 from itertools import combinations
