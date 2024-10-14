@@ -1,5 +1,5 @@
 # Repository Structure 
-Each problem is in a folder with the problem name along with the input files with the test cases I used.
+Each problem is in a folder with the problem name along with the input files with the test cases I used. <br />
 Each problem folder is in a larger folder with the name of the algorithm used.
 
 # List of Problems Solved: Link (Difficulty Level)
