@@ -8,5 +8,5 @@ Big Boxes: https://open.kattis.com/problems/bigboxes (2.8) <br />
 
 # Using .in files
 ```bash
-python3 fileName < inFile
+python3 file.py < file.in
 ```
