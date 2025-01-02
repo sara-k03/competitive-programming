@@ -5,3 +5,8 @@ Each problem folder is in a larger folder with the name of the algorithm used.
 # List of Problems Solved: Link (Difficulty Level)
 Virtual Friends: https://open.kattis.com/problems/virtualfriends (3.4) <br />
 Big Boxes: https://open.kattis.com/problems/bigboxes (2.8) <br />
+
+# Using .in files
+```bash
+python3 fileName < inFile
+```
