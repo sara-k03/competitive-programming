@@ -5,6 +5,7 @@ Each problem folder is in a larger folder with the name of the algorithm used.
 # List of Problems Solved
 Union-Find:
 - Virtual Friends: https://open.kattis.com/problems/virtualfriends (3.4) <br />
+
 BinarySearch:
 - Big Boxes: https://open.kattis.com/problems/bigboxes (2.8) <br />
 
