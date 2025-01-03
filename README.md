@@ -9,7 +9,7 @@ Each problem folder is in a larger folder with the name of the type of problem.
 ### Binary Search:
 - Big Boxes: https://open.kattis.com/problems/bigboxes (2.8) <br />
 
-### String
+### String:
 - Compound Words: https://open.kattis.com/problems/compoundwords (1.9)
 
 # Using .in files
