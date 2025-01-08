@@ -1,6 +1,7 @@
 # Repository Structure 
 Each problem is in a folder with the problem name along with the input files with the test cases I used. <br />
 Each problem folder is in a larger folder with the name of the type of problem.
+A asterik (*) indicates that the problem was done for class Spring 2025.
 
 # List of Problems Solved
 ### Graph Traversal:
@@ -13,7 +14,7 @@ Each problem folder is in a larger folder with the name of the type of problem.
 - Compound Words: https://open.kattis.com/problems/compoundwords (1.9)
 
 ### Geometry
-- Beehives: https://open.kattis.com/problems/beehives (2.1)
+- Beehives: https://open.kattis.com/problems/beehives (2.1) *
 
 # Using .in files
 ```bash
