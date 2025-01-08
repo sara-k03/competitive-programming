@@ -12,6 +12,9 @@ Each problem folder is in a larger folder with the name of the type of problem.
 ### String:
 - Compound Words: https://open.kattis.com/problems/compoundwords (1.9)
 
+### Geometry
+- Beehives: https://open.kattis.com/problems/beehives (2.1)
+
 # Using .in files
 ```bash
 python3 file.py < file.in
