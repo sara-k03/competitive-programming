@@ -16,6 +16,7 @@ Each problem is in a folder with the problem name along with the input files wit
 
 ### Dynamic Programming
 - The Plank: https://open.kattis.com/problems/theplank (1.6) (*)
+- The Gourmet: https://open.kattis.com/problems/gourmeten (1.8-1.9) (*)
 
 # Using .in files
 ```bash
