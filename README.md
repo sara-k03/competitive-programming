@@ -1,5 +1,5 @@
 # Repository Structure 
-Each problem is in a folder with the problem name along with the input files with the test cases I used. <br />
+Each problem is in a folder with the problem name along with the input files with the test cases I used. <br /> (*) indicates that they were for Spring 2025 competitive programming class. 
 
 # List of Problems Solved
 ### Graph Traversal:
@@ -12,7 +12,10 @@ Each problem is in a folder with the problem name along with the input files wit
 - Compound Words: https://open.kattis.com/problems/compoundwords (1.9)
 
 ### Geometry
-- Beehives: https://open.kattis.com/problems/beehives (2.1) 
+- Beehives: https://open.kattis.com/problems/beehives (2.1) (*)
+
+### Dynamic Programming
+- The Plank: https://open.kattis.com/problems/theplank (1.6) (*)
 
 # Using .in files
 ```bash
