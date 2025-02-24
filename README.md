@@ -1,5 +1,5 @@
 # Repository Structure 
-Each problem is in a folder with the problem name along with the input files with the test cases I used. <br /> (*) indicates that they were for Spring 2025 competitive programming class. 
+Each problem is in a folder with the problem name along with the input files with the test cases I used. <br /> (*) indicates that they were instructor-chosen problems for Spring 2025 competitive programming class. (**) indicates they were self-chosen problems for Spring 2025 competitive progrmming class.  
 
 # List of Problems Solved
 ### Graph Traversal:
