@@ -18,6 +18,9 @@ Each problem is in a folder with the problem name along with the input files wit
 - The Plank: https://open.kattis.com/problems/theplank (1.6) (*)
 - The Gourmet: https://open.kattis.com/problems/gourmeten (1.8-1.9) (*)
 
+### Binary Exponentiation 
+- Binary Exponentiation: https://open.kattis.com/problems/binaryexponentiation (4.0) (*)
+
 # Using .in files
 ```bash
 python3 file.py < file.in
