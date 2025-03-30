@@ -23,6 +23,7 @@ Each problem is in a folder with the problem name along with the input files wit
 
 ### Miscellaneous
 - A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1) (**)
+- A Different Problem: https://open.kattis.com/problems/different (2.5) (**)
 
 # Using .in files
 ```bash
