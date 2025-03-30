@@ -26,6 +26,7 @@ Each problem is in a folder with the problem name along with the input files wit
 - A Different Problem: https://open.kattis.com/problems/different (2.5) (**)
 - Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.4) (**)
 - Tri: https://open.kattis.com/problems/tri (2.0) (**)
+- 99 Problems: https://open.kattis.com/problems/99problems (3.0) (**)
 
 # Using .in files
 ```bash
