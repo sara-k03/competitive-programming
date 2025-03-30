@@ -21,6 +21,9 @@ Each problem is in a folder with the problem name along with the input files wit
 ### Binary Exponentiation 
 - Binary Exponentiation: https://open.kattis.com/problems/binaryexponentiation (4.0) (*)
 
+### Game Theory 
+- A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1) (**)
+
 # Using .in files
 ```bash
 python3 file.py < file.in
