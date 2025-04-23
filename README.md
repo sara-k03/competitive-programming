@@ -25,6 +25,9 @@ Each problem is in a folder with the problem name along with the input files wit
 ### Greedy 
 - Reduced ID Numbers: https://open.kattis.com/problems/reducedidnumbers?tab=metadata (2.3) (*)
 
+### Simulation
+- Cut In Line: https://open.kattis.com/problems/cutinline (1.6) (*)
+
 ### Miscellaneous
 - A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1) (**)
 - A Different Problem: https://open.kattis.com/problems/different (2.5) (**)
