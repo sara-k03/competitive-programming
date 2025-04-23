@@ -28,6 +28,9 @@ Each problem is in a folder with the problem name along with the input files wit
 ### Simulation
 - Cut In Line: https://open.kattis.com/problems/cutinline (1.6) (*)
 
+### ASCII
+- Average Character: https://open.kattis.com/problems/averagecharacter (2.0) (**)
+
 ### Miscellaneous
 - A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1) (**)
 - A Different Problem: https://open.kattis.com/problems/different (2.5) (**)
