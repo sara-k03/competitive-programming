@@ -8,10 +8,11 @@
 - Building Pyramids: https://open.kattis.com/problems/pyramids (1.4)
 
 # Self-Chosen
-- A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1) 
+- A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1)
+- - 99 Problems: https://open.kattis.com/problems/99problems (2.9)
+(The following problems have dropped in level)
 - A Different Problem: https://open.kattis.com/problems/different (2.1) *
 - Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.0) *
-- 99 Problems: https://open.kattis.com/problems/99problems (3.0)
 - Average Character: https://open.kattis.com/problems/averagecharacter (2.0) *
 - Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) *
 
