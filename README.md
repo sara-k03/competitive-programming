@@ -10,7 +10,7 @@
 # Self-Chosen
 - A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1) 
 - A Different Problem: https://open.kattis.com/problems/different (2.5)
-- Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.4) 
+- Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.0) *
 - 99 Problems: https://open.kattis.com/problems/99problems (3.0)
 - Average Character: https://open.kattis.com/problems/averagecharacter (2.0) *
 - Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) *
