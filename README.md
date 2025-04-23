@@ -10,6 +10,7 @@ Each problem is in a folder with the problem name along with the input files wit
 
 ### String:
 - Compound Words: https://open.kattis.com/problems/compoundwords (1.9)
+- Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) (**)
 
 ### Geometry
 - Beehives: https://open.kattis.com/problems/beehives (2.1) (*)
@@ -19,7 +20,7 @@ Each problem is in a folder with the problem name along with the input files wit
 - The Gourmet: https://open.kattis.com/problems/gourmeten (1.8-1.9) (*)
 
 ### Binary Exponentiation 
-- Binary Exponentiation: https://open.kattis.com/problems/binaryexponentiation (4.0) (*)
+- Binary Exponentiation: https://open.kattis.com/problems/binaryexponentiation (3.7) (*)
 
 ### Greedy 
 - Reduced ID Numbers: https://open.kattis.com/problems/reducedidnumbers?tab=metadata (2.3) (*)
