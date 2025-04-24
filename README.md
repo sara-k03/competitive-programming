@@ -18,6 +18,7 @@
 4. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.1) * 
 5. Average Character: https://open.kattis.com/problems/averagecharacter (2.0) * 
 6. Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) * 
+7. Another Candies: https://open.kattis.com/problems/anothercandies (2.6)
 
 # Old / Too Low
 - Tri: https://open.kattis.com/problems/tri (1.9) 
