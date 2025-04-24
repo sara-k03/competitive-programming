@@ -19,7 +19,7 @@
 5. --
 6. --
 7. A Different Problem: https://open.kattis.com/problems/different (2.2) * 
-8. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.1) * 
+8. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.0) * 
 9. Average Character: https://open.kattis.com/problems/averagecharacter (2.0) * 
 10. Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) * 
 
