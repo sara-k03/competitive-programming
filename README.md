@@ -18,11 +18,10 @@
 3. Another Candies: https://open.kattis.com/problems/anothercandies (2.6)
 4. --
 5. --
-6. --
-7. A Different Problem: https://open.kattis.com/problems/different (2.2) * 
-8. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.0) * 
-9. Average Character: https://open.kattis.com/problems/averagecharacter (2.0) * 
-10. Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) * 
+6. A Different Problem: https://open.kattis.com/problems/different (2.2) * 
+7. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.0) * 
+8. Average Character: https://open.kattis.com/problems/averagecharacter (2.0) * 
+9. Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) * 
 
 # Old / Too Low
 - Tri: https://open.kattis.com/problems/tri (1.9) 
