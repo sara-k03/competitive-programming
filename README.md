@@ -11,13 +11,13 @@
 10. I Hate The Number Nine: https://open.kattis.com/problems/nine (2.9)
 
 # Self-Chosen
-(*) indicates that the level is low and could drop
+(*) indicates that the level is close to the minimum 2.0 and could drop
 1. A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1)
 2. 99 Problems: https://open.kattis.com/problems/99problems (3.0)
-3. A Different Problem: https://open.kattis.com/problems/different (2.2)
-4. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.1)
-5. Average Character: https://open.kattis.com/problems/averagecharacter (2.0)
-6. Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) 
+3. A Different Problem: https://open.kattis.com/problems/different (2.2) * 
+4. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.1) * 
+5. Average Character: https://open.kattis.com/problems/averagecharacter (2.0) * 
+6. Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) * 
 
 # Old / Too Low
 - Tri: https://open.kattis.com/problems/tri (1.9) 
