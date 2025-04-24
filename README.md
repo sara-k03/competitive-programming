@@ -11,7 +11,7 @@
 
 # Self-Chosen
 - A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1)
-- 99 Problems: https://open.kattis.com/problems/99problems (2.9)
+- 99 Problems: https://open.kattis.com/problems/99problems (3.0)
 
 </br>(The following problems MIGHT drop in level)
 - A Different Problem: https://open.kattis.com/problems/different (2.2) 
