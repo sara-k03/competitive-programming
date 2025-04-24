@@ -8,6 +8,7 @@
 - Building Pyramids: https://open.kattis.com/problems/pyramids (1.4)
 - Riječi: https://open.kattis.com/problems/rijeci (1.6)
 - Perket: https://open.kattis.com/problems/perket (2.1)
+- I Hate The Number Nine: https://open.kattis.com/problems/nine (2.9)
 
 # Self-Chosen
 - A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1)
