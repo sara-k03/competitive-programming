@@ -7,6 +7,7 @@
 - Cut In Line: https://open.kattis.com/problems/cutinline (1.6) 
 - Building Pyramids: https://open.kattis.com/problems/pyramids (1.4)
 - Riječi: https://open.kattis.com/problems/rijeci (1.6)
+- Perket: https://open.kattis.com/problems/perket (2.1)
 
 # Self-Chosen
 - A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1)
