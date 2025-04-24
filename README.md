@@ -1,24 +1,23 @@
 # Instructor Chosen 
-- Beehives: https://open.kattis.com/problems/beehives (2.1) 
-- The Plank: https://open.kattis.com/problems/theplank (1.6) 
-- The Gourmet: https://open.kattis.com/problems/gourmeten (1.8-1.9) 
-- Binary Exponentiation: https://open.kattis.com/problems/binaryexponentiation (3.7) 
-- Reduced ID Numbers: https://open.kattis.com/problems/reducedidnumbers?tab=metadata (2.3) 
-- Cut In Line: https://open.kattis.com/problems/cutinline (1.6) 
-- Building Pyramids: https://open.kattis.com/problems/pyramids (1.4)
-- Riječi: https://open.kattis.com/problems/rijeci (1.6)
-- Perket: https://open.kattis.com/problems/perket (2.1)
-- I Hate The Number Nine: https://open.kattis.com/problems/nine (2.9)
+1. Beehives: https://open.kattis.com/problems/beehives (2.1)
+2. The Plank: https://open.kattis.com/problems/theplank (1.6)
+3. The Gourmet: https://open.kattis.com/problems/gourmeten (1.8-1.9)
+4. Binary Exponentiation: https://open.kattis.com/problems/binaryexponentiation (3.7)
+5. Reduced ID Numbers: https://open.kattis.com/problems/reducedidnumbers?tab=metadata (2.3)
+6. Cut In Line: https://open.kattis.com/problems/cutinline (1.6)
+7. Building Pyramids: https://open.kattis.com/problems/pyramids (1.4)
+8. Riječi: https://open.kattis.com/problems/rijeci (1.6)
+9. Perket: https://open.kattis.com/problems/perket (2.1)
+10. I Hate The Number Nine: https://open.kattis.com/problems/nine (2.9)
 
 # Self-Chosen
-- A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1)
-- 99 Problems: https://open.kattis.com/problems/99problems (3.0)
-
-</br>(The following problems MIGHT drop in level)
-- A Different Problem: https://open.kattis.com/problems/different (2.2) 
-- Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.1) 
-- Average Character: https://open.kattis.com/problems/averagecharacter (2.0) 
-- Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) 
+(*) indicates that the level is low and could drop
+1. A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1)
+2. 99 Problems: https://open.kattis.com/problems/99problems (3.0)
+3. A Different Problem: https://open.kattis.com/problems/different (2.2)
+4. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.1)
+5. Average Character: https://open.kattis.com/problems/averagecharacter (2.0)
+6. Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) 
 
 # Old / Too Low
 - Tri: https://open.kattis.com/problems/tri (1.9) 
