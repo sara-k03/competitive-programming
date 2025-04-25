@@ -10,6 +10,7 @@
 9. Perket: https://open.kattis.com/problems/perket (2.1)
 10. I Hate The Number Nine: https://open.kattis.com/problems/nine (2.9)
 11. Cooking Water: https://open.kattis.com/problems/cookingwater (2.6)
+12. Okvir: https://open.kattis.com/problems/okvir (2.1)
 
 # Self-Chosen
 (*) indicates that the level is close to the minimum 2.0 and could drop
