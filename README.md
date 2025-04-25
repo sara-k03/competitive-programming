@@ -11,17 +11,17 @@
 10. I Hate The Number Nine: https://open.kattis.com/problems/nine (2.9)
 11. Cooking Water: https://open.kattis.com/problems/cookingwater (2.6)
 12. Okvir: https://open.kattis.com/problems/okvir (2.1)
+13. Joint Jog Jame: https://open.kattis.com/problems/jointjogjam (1.7)
 
 # Self-Chosen
 (*) indicates that the level is close to the minimum 2.0 and could drop
 1. A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1)
 2. 99 Problems: https://open.kattis.com/problems/99problems (3.0)
 3. Another Candies: https://open.kattis.com/problems/anothercandies (2.6)
-4. --
-5. A Different Problem: https://open.kattis.com/problems/different (2.2) * 
-6. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.0) * 
-7. Average Character: https://open.kattis.com/problems/averagecharacter (2.0) * 
-8. Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) * 
+4. A Different Problem: https://open.kattis.com/problems/different (2.2) * 
+5. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.0) * 
+6. Average Character: https://open.kattis.com/problems/averagecharacter (2.0) * 
+7. Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) * 
 
 # Old / Too Low
 - Tri: https://open.kattis.com/problems/tri (1.9) 
