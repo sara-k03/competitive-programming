@@ -20,7 +20,7 @@
 2. 99 Problems: https://open.kattis.com/problems/99problems (3.0)
 3. Another Candies: https://open.kattis.com/problems/anothercandies (2.6)
 4. A List Game: https://open.kattis.com/problems/listgame (2.8)
-5. A Different Problem: https://open.kattis.com/problems/different (2.2)
+5. Astrological Sign: https://open.kattis.com/problems/astrologicalsign (2.6)
 
 # Old / Too Low
 - Tri: https://open.kattis.com/problems/tri (1.9) 
@@ -30,6 +30,7 @@
 - Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.0) 
 - Average Character: https://open.kattis.com/problems/averagecharacter (2.0)
 - Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0)
+- A Different Problem: https://open.kattis.com/problems/different (2.2)
 
 # Using .in files
 ```bash
