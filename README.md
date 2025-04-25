@@ -12,6 +12,7 @@
 11. Cooking Water: https://open.kattis.com/problems/cookingwater (2.6)
 12. Okvir: https://open.kattis.com/problems/okvir (2.1)
 13. Joint Jog Jame: https://open.kattis.com/problems/jointjogjam (1.7)
+14. Bobby's Bet: https://open.kattis.com/problems/bobby (2.3)
 
 # Self-Chosen
 (*) indicates that the level is close to the minimum 2.0 and could drop
