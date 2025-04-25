@@ -16,21 +16,20 @@
 15. Perfect Powers: https://open.kattis.com/problems/perfectpowers (4.9)
 
 # Self-Chosen
-(*) indicates that the level is close to the minimum 2.0 and could drop
 1. A Multiplication Game: https://open.kattis.com/problems/amultiplicationgame (4.1)
 2. 99 Problems: https://open.kattis.com/problems/99problems (3.0)
 3. Another Candies: https://open.kattis.com/problems/anothercandies (2.6)
-4. A List Game: https://open.kattis.com/problems/listgame (2.7)
-5. A Different Problem: https://open.kattis.com/problems/different (2.2) * 
-6. Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.0) * 
-7. Average Character: https://open.kattis.com/problems/averagecharacter (2.0) * 
-8. Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0) * 
+4. A List Game: https://open.kattis.com/problems/listgame (2.8)
+5. A Different Problem: https://open.kattis.com/problems/different (2.2)
 
 # Old / Too Low
 - Tri: https://open.kattis.com/problems/tri (1.9) 
 - Virtual Friends: https://open.kattis.com/problems/virtualfriends (3.4) <br />
 - Big Boxes: https://open.kattis.com/problems/bigboxes (2.8) <br />
 - Compound Words: https://open.kattis.com/problems/compoundwords (1.9)
+- Any Pythagorean Triple: https://open.kattis.com/problems/anypythagorean (2.0) 
+- Average Character: https://open.kattis.com/problems/averagecharacter (2.0)
+- Anti-Palindrome: https://open.kattis.com/problems/antipalindrome (2.0)
 
 # Using .in files
 ```bash
