@@ -13,6 +13,7 @@
 12. Okvir: https://open.kattis.com/problems/okvir (2.1)
 13. Joint Jog Jame: https://open.kattis.com/problems/jointjogjam (1.7)
 14. Bobby's Bet: https://open.kattis.com/problems/bobby (2.3)
+15. Perfect Powers: https://open.kattis.com/problems/perfectpowers (4.9)
 
 # Self-Chosen
 (*) indicates that the level is close to the minimum 2.0 and could drop
